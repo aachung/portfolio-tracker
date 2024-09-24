@@ -1,0 +1,42 @@
+{
+    "name": "Test Portfolio",
+    "accounts": [
+        {
+            "balance": 123000,
+            "name": "Test Account 1",
+            "holdings": [
+                {
+                    "shares": 100,
+                    "symbol": "ABC",
+                    "bookCost": 2000,
+                    "price": 35,
+                    "gainLoss": 1500,
+                    "marketValue": 3500,
+                    "averageCost": 20
+                },
+                {
+                    "shares": 800,
+                    "symbol": "DEF",
+                    "bookCost": 8000,
+                    "price": 10,
+                    "gainLoss": 0,
+                    "marketValue": 8000,
+                    "averageCost": 10
+                }
+            ]
+        },
+        {
+            "balance": 456000,
+            "name": "Test Account 2",
+            "holdings": [{
+                "shares": 100,
+                "symbol": "GHI",
+                "bookCost": 88,
+                "price": 0.85,
+                "gainLoss": -3,
+                "marketValue": 85,
+                "averageCost": 0.88
+            }]
+        }
+    ]
+}

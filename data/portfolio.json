@@ -1,0 +1,85 @@
+{
+  "name": "Annie's Portfolio",
+  "accounts": [
+    {
+      "balance": 50350,
+      "name": "TFSA",
+      "holdings": [
+        {
+          "shares": 200,
+          "symbol": "TD",
+          "bookCost": 6000,
+          "price": 30,
+          "gainLoss": 0,
+          "marketValue": 6000,
+          "averageCost": 30
+        },
+        {
+          "shares": 300,
+          "symbol": "BMO",
+          "bookCost": 14400,
+          "price": 48,
+          "gainLoss": 0,
+          "marketValue": 14400,
+          "averageCost": 48
+        },
+        {
+          "shares": 100,
+          "symbol": "BNS",
+          "bookCost": 1000,
+          "price": 15,
+          "gainLoss": 500,
+          "marketValue": 1500,
+          "averageCost": 10
+        },
+        {
+          "shares": 500,
+          "symbol": "RY",
+          "bookCost": 7500,
+          "price": 15,
+          "gainLoss": 0,
+          "marketValue": 7500,
+          "averageCost": 15
+        },
+        {
+          "shares": 200,
+          "symbol": "CM",
+          "bookCost": 8000,
+          "price": 40,
+          "gainLoss": 0,
+          "marketValue": 8000,
+          "averageCost": 40
+        }
+      ]
+    },
+    {
+      "balance": 38750,
+      "name": "RRSP",
+      "holdings": [
+        {
+          "shares": 50,
+          "symbol": "AC",
+          "bookCost": 2500,
+          "price": 50,
+          "gainLoss": 0,
+          "marketValue": 2500,
+          "averageCost": 50
+        },
+        {
+          "shares": 375,
+          "symbol": "WJA",
+          "bookCost": 15750,
+          "price": 42,
+          "gainLoss": 0,
+          "marketValue": 15750,
+          "averageCost": 42
+        }
+      ]
+    },
+    {
+      "balance": 107000,
+      "name": "Cash",
+      "holdings": []
+    }
+  ]
+}
